@@ -37,14 +37,15 @@ body {
     padding: 10px;
 
 }
+#footer {
+    text-align: center;
+    background: rgb(62 75 193 / 90%);
+    padding: 10px;
+    color: floralwhite;
+}
 #container h1 {
     font-size: 20px;
 }
 #post {
     padding: 1em
-}
-#logo {
-    width: 30px;
-    height: 35px;
-    padding: 15px;
 }
