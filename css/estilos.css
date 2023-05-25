@@ -2,15 +2,16 @@ body {
     color:black;
     text-align: left;
     font-family: "Arial";
+    background: #000000d1;
 }
 #cabecera {
-    background-color: rgb(221, 165, 221);
-    box-shadow: -9px 11px 16px -1px rgba(198,88,252,0.75);
+    background-color: rgb(62 75 193 / 90%);
+    box-shadow: -9px 11px 16px -1px rgb(62 75 193 / 90%);
     color: floralwhite;
     margin: 15;
     padding: 0,5em;
     font-weight: bold;
-    font-size: 25px; 
+    font-size: 25px;
     display: flex;
     height: 45px;
     align-items: center;
@@ -21,15 +22,22 @@ body {
     font-size: small;
 }
 #container {
-    width: 70%;
+    width: 90%;
     padding: 1em;
     text-align: left;
     border: 1px solid black;
-    margin: 0 auto;
+    margin: 65px auto;
+    color: black;
+    background: white;
 }
 #container h1 {
     font-size: 20px;
 }
 #post {
     padding: 1em
+}
+#logo {
+    margin: 10px;
+    height: 35px;
+    width: 45px;
 }
