@@ -27,15 +27,15 @@ body {
     border: 1px solid black;
     margin: 0 auto;
 }
-#container h1 {
-    font-size: 20px;
-}
-#post {
-    padding: 1em
-}
 #footer {
     text-align: center;
     background: rgb(62 75 193 / 90%);
     padding: 10px;
 
+}
+#container h1 {
+    font-size: 20px;
+}
+#post {
+    padding: 1em
 }
