@@ -30,12 +30,12 @@ body {
     color: black;
     background: white;
 }
+
 #footer {
     text-align: center;
     background: rgb(62 75 193 / 90%);
     padding: 10px;
 
->>>>>>> footer
 }
 #container h1 {
     font-size: 20px;
@@ -43,9 +43,3 @@ body {
 #post {
     padding: 1em
 }
-<<<<<<< HEAD
-#logo {
-    margin: 10px;
-    height: 35px;
-    width: 45px;
-}=======
